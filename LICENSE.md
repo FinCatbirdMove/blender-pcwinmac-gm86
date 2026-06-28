@@ -1,4 +1,4 @@
-# 
+# Professional Blender filters for Mac OS | Automatic Blender filters for PC Windows. Featuring gradient-mesh and texture-brushes — optimized for maximum performance on every platform.
 
 
 
